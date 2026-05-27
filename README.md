@@ -1,1 +1,1 @@
-# ugc-ai-platform
+# ugc-ai-platform-ui
